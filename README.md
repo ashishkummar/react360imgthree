@@ -7,6 +7,7 @@
 
     import React,  { Component }  from  'react'
     import View360Three from  'react360imgthree'
+    
     class  Example  extends  Component  {
      render  ()  
 	     {
